@@ -2,6 +2,7 @@
 Sourcepawn store credit case's
 
 # Convars And Commands ;
+- sm_case "open case"
 - mithat_open_cost "Open case cost" 
 - mithat_min_price "Min number to win credits from case" 
 - mithat_max_price "Max number to win credits from case"
