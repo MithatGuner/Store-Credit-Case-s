@@ -15,3 +15,7 @@ https://forums.alliedmods.net/showthread.php?t=276677
 
 # Video ;
 https://www.youtube.com/watch?v=aLoSmx1P-F0
+
+# Thanks To;
+- shanapu
+- xines
