@@ -1,0 +1,27 @@
+﻿"Phrases"
+{
+	"RequiredCredits"
+	{
+		"#format"		"{1:i}"
+		"en"			"{darkred}[ Pluginler.com ]{lime} U need {1} credits to open case."
+		"tr"			"{darkred}[ Pluginler.com ]{lime} Kasa açabilmek için {1} krediye sahip olmalısın."
+	}
+	"CenterTextToPrint"
+	{
+		"#format"		"{1:i}"
+		"en"			"<big><u><b><font color='#dd2f2f'><center>Pluginler.com</center>\n</font><font color='#00CCFF'>|| <font color='#15fb00'>{1}</font> Credits ||</font></b></u></big>"
+		"tr"			"<big><u><b><font color='#dd2f2f'><center>Pluginler.com</center>\n</font><font color='#00CCFF'>|| <font color='#15fb00'>{1}</font> Kredi ||</font></b></u></big>"
+	}
+	"ChatTextToPrint"
+	{
+		"#format"		"{1:i}"
+		"en"			"{darkred}[ Pluginler.com ] {lime}U Win {purple}|| {darkred}{1} {lime}Credits From Case{purple}|| {lime}kazandın!"
+		"tr"			"{darkred}[ Pluginler.com ] {lime}Kasadan {purple}|| {darkred}{1} {lime}Kredi{purple}|| {lime}kazandın!"
+	}
+	"RandomNumberToPrint"
+	{
+		"#format"		"{1:i}"
+		"en"			"<big><u><b><font color='#00CCFF'>|| <font color='#15fb00'>{1}</font> Credits ||</font></b></u></big>"
+		"tr"			"<big><u><b><font color='#00CCFF'>|| <font color='#15fb00'>{1}</font> Kredi ||</font></b></u></big>"
+	}
+}
