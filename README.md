@@ -1,6 +1,11 @@
 # Store-Credit-Case-s
 Sourcepawn store credit case's
 
+# Convars And Commands ;
+- mithat_open_cost "Open case cost" 
+- mithat_min_price "Min number to win credits from case" 
+- mithat_max_price "Max number to win credits from case"
+
 # Main Post ;
 https://forums.alliedmods.net/showthread.php?t=293479
 
